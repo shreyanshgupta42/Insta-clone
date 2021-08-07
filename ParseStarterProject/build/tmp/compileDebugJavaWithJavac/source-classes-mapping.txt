@@ -1,0 +1,17 @@
+com/parse/starter/secondActivity.java
+ com.parse.starter.secondActivity
+ com.parse.starter.secondActivity$1
+ com.parse.starter.secondActivity$2
+ com.parse.starter.secondActivity$3
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
+com/parse/starter/UserFeedActivity.java
+ com.parse.starter.UserFeedActivity
+ com.parse.starter.UserFeedActivity$1
+ com.parse.starter.UserFeedActivity$1$1
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+ com.parse.starter.MainActivity$1
+ com.parse.starter.MainActivity$2
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication

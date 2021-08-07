@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.parse.starter"
+4    android:targetSandboxVersion="1"
+5    android:versionCode="1"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:7:5-67
+12-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:7:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
+13-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:9:5-80
+14-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:9:22-77
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-79
+15-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:10:22-76
+16
+17    <meta-data
+17-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:32:5-34:55
+18        android:name="com.parse.SERVER_URL"
+18-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:33:9-44
+19        android:value="http://18.118.85.120/parse/" />
+19-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:34:9-52
+20    <meta-data
+20-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:35:5-37:35
+21        android:name="com.parse.APPLICATION_ID"
+21-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:36:9-48
+22        android:value="myappID" />
+22-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:37:9-32
+23    <meta-data
+23-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:38:5-40:40
+24        android:name="com.parse.CLIENT_KEY"
+24-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:39:9-44
+25        android:value="nNTmaDTHNut0" />
+25-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:40:9-37
+26
+27    <application
+27-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:12:5-31:19
+28        android:name="com.parse.starter.StarterApplication"
+28-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
+29        android:allowBackup="true"
+29-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:14:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\cc5e9dcdc56dc39042f72c501235e83f\core-1.5.0\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@mipmap/ic_launcher"
+32-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:15:9-43
+33        android:label="@string/app_name"
+33-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-41
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme"
+35-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-40
+36        android:usesCleartextTraffic="true" >
+36-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-44
+37        <activity android:name="com.parse.starter.secondActivity" />
+37-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:20:9-61
+37-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:20:19-49
+38        <activity
+38-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:21:9-29:20
+39            android:name="com.parse.starter.MainActivity"
+39-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:22:13-41
+40            android:label="@string/app_name" >
+40-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:23:13-45
+41            <intent-filter>
+41-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:24:13-28:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:25:17-69
+42-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:25:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:27:17-77
+44-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:27:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity android:name="com.parse.starter.UserFeedActivity" />
+47-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:30:9-63
+47-->C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:30:19-51
+48        <activity
+48-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+49            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+49-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+50            android:exported="false"
+50-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+51            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+51-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d713977a4b6e485444fae772ce7a738f\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+52
+53        <meta-data
+53-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+54            android:name="com.google.android.gms.version"
+54-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+55            android:value="@integer/google_play_services_version" />
+55-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2535a99724a6fdcf185356f902c38a6e\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+56    </application>
+57
+58</manifest>
