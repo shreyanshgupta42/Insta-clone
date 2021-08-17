@@ -803,6 +803,7 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f07004b
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f07004c
 int drawable abc_textfield_search_material 0x7f07004d
 int drawable abc_vector_test 0x7f07004e
+int drawable blankprofile 0x7f07007b
 int drawable btn_checkbox_checked_mtrl 0x7f07004f
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f070050
 int drawable btn_checkbox_unchecked_mtrl 0x7f070051
@@ -995,6 +996,8 @@ int id ignore 0x7f080090
 int id ignoreRequest 0x7f080091
 int id image 0x7f080092
 int id imageView 0x7f080093
+int id imageView10 0x7f080118
+int id imageView3 0x7f080116
 int id info 0x7f080094
 int id invisible 0x7f080095
 int id italic 0x7f080096
@@ -1102,6 +1105,8 @@ int id text2 0x7f0800fb
 int id textSpacerNoButtons 0x7f0800fc
 int id textSpacerNoTitle 0x7f0800fd
 int id textView 0x7f0800fe
+int id textView2 0x7f080117
+int id textview1 0x7f080119
 int id time 0x7f0800ff
 int id title 0x7f080100
 int id titleDividerNoCustom 0x7f080101
@@ -1170,6 +1175,7 @@ int layout activity_main 0x7f0b001c
 int layout activity_second 0x7f0b001d
 int layout activity_user_feed 0x7f0b001e
 int layout custom_dialog 0x7f0b001f
+int layout mylist 0x7f0b002a
 int layout notification_action 0x7f0b0020
 int layout notification_action_tombstone 0x7f0b0021
 int layout notification_template_custom_big 0x7f0b0022

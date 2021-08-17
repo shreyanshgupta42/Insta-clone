@@ -16,8 +16,16 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_mylist.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\mylist.xml"
+    },
+    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_blankprofile.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\drawable\\blankprofile.png"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
