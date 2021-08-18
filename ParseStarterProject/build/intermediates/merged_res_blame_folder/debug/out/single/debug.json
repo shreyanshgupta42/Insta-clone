@@ -4,28 +4,36 @@
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
-        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_second.xml"
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_mylist.xml.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\mylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_second.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_postitem.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\postitem.xml"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_feed.xml.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_user_feed.xml"
     },
     {
-        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_blankprofile.png.flat",
-        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\drawable\\blankprofile.png"
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_socialnetworks.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\socialnetworks.png"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -34,6 +42,26 @@
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_instagram.png.flat",
         "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_content_feed.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\content_feed.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_blankprofile.png.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\drawable\\blankprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed.xml.flat",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\src\\main\\res\\layout\\activity_feed.xml"
     },
     {
         "merged": "C:\\Users\\HP\\AndroidStudioProjects\\Parse-Server-Starter-Project(instagramclone\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_share_menu.xml.flat",

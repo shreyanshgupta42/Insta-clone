@@ -201,7 +201,8 @@ public class secondActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-                Intent intent = new Intent(getApplicationContext(), UserFeedActivity.class);
+//                Intent intent = new Intent(getApplicationContext(), UserFeedActivity.class);
+                Intent intent = new Intent(getApplicationContext(), feed.class);
                 intent.putExtra("username", usernames.get(i));
                 startActivity(intent);
             }

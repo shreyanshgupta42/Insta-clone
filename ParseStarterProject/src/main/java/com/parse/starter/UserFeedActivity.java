@@ -3,11 +3,15 @@ package com.parse.starter;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.os.Build;
 import android.os.Bundle;
+
+import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 
 import com.parse.FindCallback;
 import com.parse.GetDataCallback;
@@ -15,6 +19,7 @@ import com.parse.ParseException;
 import com.parse.ParseFile;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
+import com.parse.ParseUser;
 
 import java.util.List;
 
@@ -49,6 +54,7 @@ public class UserFeedActivity extends AppCompatActivity {
                         ParseFile file = (ParseFile) object.get("image");
 
                         file.getDataInBackground(new GetDataCallback() {
+                            @RequiresApi(api = Build.VERSION_CODES.M)
                             @Override
                             public void done(byte[] data, ParseException e) {
                                 if (e == null && data != null) {
@@ -63,6 +69,9 @@ public class UserFeedActivity extends AppCompatActivity {
                                     imageView.setImageBitmap(bitmap);
 
                                     linLayout.addView(imageView);
+                                    TextView textView=new TextView(getApplicationContext());
+                                    textView.setText(ParseUser.getCurrentUser().getUsername());
+                                    linLayout.addView(textView);
                                 }
                             }
                         });
