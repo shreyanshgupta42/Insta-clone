@@ -1,13 +1,9 @@
 com/parse/starter/databinding/PostitemBinding.java
  com.parse.starter.databinding.PostitemBinding
-com/parse/starter/databinding/FragmentSecondBinding.java
- com.parse.starter.databinding.FragmentSecondBinding
 com/parse/starter/StarterApplication.java
  com.parse.starter.StarterApplication
 com/parse/starter/databinding/ActivityFeedBinding.java
  com.parse.starter.databinding.ActivityFeedBinding
-com/parse/starter/databinding/ContentFeedBinding.java
- com.parse.starter.databinding.ContentFeedBinding
 com/parse/starter/secondActivity.java
  com.parse.starter.secondActivity
  com.parse.starter.secondActivity$1
@@ -18,30 +14,18 @@ com/parse/starter/secondActivity.java
  com.parse.starter.secondActivity$4
  com.parse.starter.secondActivity$5
  com.parse.starter.secondActivity$5$1
-com/parse/starter/UserFeedActivity.java
- com.parse.starter.UserFeedActivity
- com.parse.starter.UserFeedActivity$1
- com.parse.starter.UserFeedActivity$1$1
 com/parse/starter/databinding/ActivityMainBinding.java
  com.parse.starter.databinding.ActivityMainBinding
 com/parse/starter/ProfileArrayAdapter.java
  com.parse.starter.ProfileArrayAdapter
  com.parse.starter.ProfileArrayAdapter$1
  com.parse.starter.ProfileArrayAdapter$1$1
-com/parse/starter/SecondFragment.java
- com.parse.starter.SecondFragment
- com.parse.starter.SecondFragment$1
 com/parse/starter/feed.java
  com.parse.starter.feed
  com.parse.starter.feed$1
  com.parse.starter.feed$1$1
  com.parse.starter.feed$2
  com.parse.starter.feed$2$1
-com/parse/starter/databinding/ActivityUserFeedBinding.java
- com.parse.starter.databinding.ActivityUserFeedBinding
-com/parse/starter/FirstFragment.java
- com.parse.starter.FirstFragment
- com.parse.starter.FirstFragment$1
 com/parse/starter/MainActivity.java
  com.parse.starter.MainActivity
  com.parse.starter.MainActivity$1
@@ -53,8 +37,6 @@ com/parse/starter/PostAdapter.java
  com.parse.starter.PostAdapter$myHolder
 com/parse/starter/Post.java
  com.parse.starter.Post
-com/parse/starter/databinding/FragmentFirstBinding.java
- com.parse.starter.databinding.FragmentFirstBinding
 com/parse/starter/BuildConfig.java
  com.parse.starter.BuildConfig
 com/parse/starter/databinding/ActivitySecondBinding.java

@@ -195,13 +195,11 @@ public class secondActivity extends AppCompatActivity {
 
         final ListView listView = findViewById(R.id.listView);
         final ArrayList<String> usernames = new ArrayList<String>();
-//        final ArrayAdapter arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, usernames);
         final ProfileArrayAdapter arrayAdapter = new ProfileArrayAdapter(this, R.layout.mylist, usernames);
 
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
-//                Intent intent = new Intent(getApplicationContext(), UserFeedActivity.class);
                 Intent intent = new Intent(getApplicationContext(), feed.class);
                 intent.putExtra("username", usernames.get(i));
                 startActivity(intent);

@@ -1899,8 +1899,6 @@ id bottom
 id bounce
 id button2
 id buttonPanel
-id button_first
-id button_second
 id cache_measures
 id cancel_button
 id center
@@ -2023,7 +2021,6 @@ id layout
 id left
 id leftToRight
 id light
-id linLayout
 id line1
 id line3
 id linear
@@ -2088,7 +2085,6 @@ id multiply
 id nav_controller_view_tag
 id nav_graph
 id nav_host_fragment_container
-id nav_host_fragment_content_feed
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2227,8 +2223,6 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id textview1
-id textview_first
-id textview_second
 id time
 id title
 id titleDividerNoCustom
@@ -2334,8 +2328,6 @@ layout abc_tooltip
 layout activity_feed
 layout activity_main
 layout activity_second
-layout activity_user_feed
-layout content_feed
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2352,8 +2344,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout fragment_first
-layout fragment_second
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider

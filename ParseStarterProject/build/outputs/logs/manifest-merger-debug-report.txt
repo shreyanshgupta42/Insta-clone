@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\e100e1d87f3eab663026c1e722d50103\jetified-viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\3ebebe40f6e4c517870db3c6933d8213\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.26.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae207d4bd6ec20595b53c5f50e476ee3\jetified-parse-1.26.0\AndroidManifest.xml:10:1-24:12
@@ -51,20 +51,20 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\HP\.gradle\cache
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\b93e2b8a7319b8231fdc1936a598b860\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f8503f66578d12caa389b09e1e5eca48\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8b1826e082b884f9fc593d27a9580a45\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:3:5-32
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-42:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:2:11-69
@@ -109,7 +109,7 @@ ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instag
 	android:name
 		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-44
 application
-ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:21:5-40:19
+ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:21:5-39:19
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.26.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae207d4bd6ec20595b53c5f50e476ee3\jetified-parse-1.26.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.parse-community.Parse-SDK-Android:parse:1.26.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae207d4bd6ec20595b53c5f50e476ee3\jetified-parse-1.26.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.4.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\10046aad9e73cbf22653afacdcab8838\material-1.4.0\AndroidManifest.xml:22:5-20
@@ -168,10 +168,6 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:36:17-77
 	android:name
 		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:36:27-74
-activity#com.parse.starter.UserFeedActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:39:9-54
-	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml:39:19-51
 uses-sdk
 INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\HP\AndroidStudioProjects\Parse-Server-Starter-Project(instagramclone\ParseStarterProject\src\main\AndroidManifest.xml
